@@ -15,7 +15,7 @@ git clone https://github.com/Zaferturan/kodluyoruzilkrepo.git
 Projeyi Cloneladıktan sonra Visual Studio Code programında açınız
 
 Linux için:
-'''bash
+```bash
 cd kodluyoruzlikrepo
 code .
-'''
+```
